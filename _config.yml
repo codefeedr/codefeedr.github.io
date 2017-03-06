@@ -1,7 +1,7 @@
 # Site settings
 title: The CodeFeedr project
 #subtitle: 
-email: gousiosg@gmail.com
+email: codefeedr@gmail.com
 description: A responsive site template designed by HTML5 Up<br /> and released under the Creative Commons.
 #baseurl: "/forty-jekyll-theme" # the subpath of your site, e.g. /blog
 url: "http://codefeedr.github.io" # the base hostname & protocol for your site
