@@ -2,7 +2,7 @@
 title: CodeFeedr
 subtitle: Streaming Software Analytics
 email: codefeedr@gmail.com
-description: A responsive site template designed by HTML5 Up<br /> and released under the Creative Commons.
+#description: A responsive site template designed by HTML5 Up<br /> and released under the Creative Commons.
 #baseurl: "/forty-jekyll-theme" # the subpath of your site, e.g. /blog
 url: "https://codefeedr.github.io" # the base hostname & protocol for your site
 author: The CodeFeedr project
