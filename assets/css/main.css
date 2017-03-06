@@ -3914,3 +3914,9 @@
 			opacity: 1;
 			visibility: visible;
 		}
+
+.img-circle {
+    border-radius: 50%;
+	max-height:180px;
+	width:180px;
+}
