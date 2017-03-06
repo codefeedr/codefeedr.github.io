@@ -3920,3 +3920,7 @@
 	max-height:180px;
 	width:180px;
 }
+
+ul#list-inline li {
+    display:inline;
+}
