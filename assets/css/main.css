@@ -3921,6 +3921,10 @@
 	width:180px;
 }
 
+.img-logo { width: 70%; height: auto; padding: 5px; margin: -40px; padding-right: 25px; }
+.logo {
+    height: 60px;
+}
 ul#list-inline li {
     display:inline;
 }
