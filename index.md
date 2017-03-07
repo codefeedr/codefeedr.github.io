@@ -1,7 +1,7 @@
 ---
 layout: home
 title: Home
-landing-title: 'Streaming Software Analytics'
+landing-title: 'CodeFeedr'
 description: null
 image: null
 author: null
