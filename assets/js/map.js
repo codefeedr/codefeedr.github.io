@@ -6,10 +6,10 @@ function init() {
     // For more options see: https://developers.google.com/maps/documentation/javascript/reference#MapOptions
     var mapOptions = {
         // How zoomed in you want the map to start at (always required)
-        zoom: 16,
+        zoom: 9,
 
         // The latitude and longitude to center the map (always required)
-        center: new google.maps.LatLng(51.99884, 4.37349), // EEMCS
+        center: new google.maps.LatLng(52.127658, 4.668851), // EEMCS
         disableDefaultUI: true,
         // How you would like to style the map. 
         // This is where you would paste any style found on Snazzy Maps, check for changing style: https://snazzymaps.com/
@@ -26,6 +26,12 @@ function init() {
     // Let's also add a marker while we're at it
     var marker = new google.maps.Marker({
         position: new google.maps.LatLng(51.99884, 4.37349),
+        animation: google.maps.Animation.DROP,
+        map: map,
+    });
+
+    var markerSIG = new google.maps.Marker({
+        position: new google.maps.LatLng(52.345067, 4.917062),
         animation: google.maps.Animation.DROP,
         map: map,
     });
