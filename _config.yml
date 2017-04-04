@@ -13,6 +13,11 @@ city: Delft
 zip_code: NL-2628 CD
 country: the Netherlands
 
+company_address: Rembrandt Tower, 15th floor
+company_address_2: Amstelplein 1
+company: Software Improvement Group
+company_city: Amsterdam
+company_zip_code: NL-1096 HA
 
 # Homepage tiles
 tiles-source: posts # accepts "posts" or "pages"

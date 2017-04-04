@@ -21,12 +21,18 @@
 			</section>-->
 			<section>
 				<div class="contact-method">
-					<span class="icon alt fa-home"></span>
-					<h3>Address</h3>
-					<span>{{ site.university }}<br />
-						{{ site.office }}<br />
+					<span class="icon alt fa-university"></span>
+					<span><strong>{{ site.university }}</strong><br />
 						{{ site.street_address }}<br />
-					{{ site.city }}, {{ site.state }} {{ site.zip_code }}<br />
+					{{ site.zip_code }} {{ site.city }}<br />
+					{{ site.country }}</span>
+				</div>
+				<div class="contact-method">
+					<span class="icon alt fa-building"></span>
+					<span><strong>{{ site.company }}</strong><br />
+						{{ site.company_address }}<br />
+						{{ site.company_address_2 }}<br />
+					{{ site.company_zip_code }} {{ site.company_city }}<br />
 					{{ site.country }}</span>
 				</div>
 			</section>
