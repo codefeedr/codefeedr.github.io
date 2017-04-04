@@ -1857,6 +1857,36 @@
 			text-transform: uppercase;
 		}
 
+			header.major-black {
+		width: -moz-max-content;
+		width: -webkit-max-content;
+		width: -ms-max-content;
+		width: max-content;
+		margin-bottom: 2em;
+	}
+
+		header.major-black > :first-child {
+			margin-bottom: 0;
+			width: calc(100% + 0.5em);
+		}
+
+			header.major-black > :first-child:after {
+				content: '';
+				background-color: black;
+				display: block;
+				height: 2px;
+				margin: 0.325em 0 0.5em 0;
+				width: 100%;
+			}
+
+		header.major-black > p {
+			font-size: 0.7em;
+			font-weight: 600;
+			letter-spacing: 0.25em;
+			margin-bottom: 0;
+			text-transform: uppercase;
+		}
+
 		body.is-ie header.major > :first-child:after {
 			max-width: 9em;
 		}
