@@ -6,11 +6,11 @@ email: codefeedr@gmail.com
 #baseurl: "/forty-jekyll-theme" # the subpath of your site, e.g. /blog
 url: "https://codefeedr.github.io" # the base hostname & protocol for your site
 author: The CodeFeedr project
-street_address: Mekelweg 4
+street_address: van Mourik Broekmanweg 6
 university: TU Delft EWI / ST
-office: Room 08.140
+office: Room W4.560
 city: Delft
-zip_code: NL-2628 CD
+zip_code: NL-2628 XE
 country: the Netherlands
 
 company_address: Rembrandt Tower, 15th floor
